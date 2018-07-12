@@ -3,7 +3,7 @@
 Other alternatives - 
 * Let's talk gRPC
 * Better communications with gRPC
-* General Introduction to gRPC.
+* Gentle Introduction to gRPC.
 * Taste the gRPC medicine
 * Let servers fly with gRPC.
 
@@ -25,11 +25,11 @@ Other alternatives -
 ## Let's build something -
 
 1. ### Describe what we'll build (it has to be a very common thing)
-2. ### Setup a node project.
-3. ### Write .proto files
-4. ### Make a node server.
-5. ### Make a node client.
-6. ### See it in action.
+1. ### Setup a node project.
+1. ### Write .proto files
+1. ### Make a node server.
+1. ### Make a node client.
+1. ### See it in action.
 
 ## Limitations -
 * Can't be used in browser-server communications.
